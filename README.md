@@ -1,4 +1,4 @@
-# Nuxt & TailWind project
+# Nuxt3 & TailWind project
 
 ### [Live Demo of the current project](https://nuxt3-practice-course.netlify.app/)
 
